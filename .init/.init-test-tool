@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-calculator-app-227150-227159/calculator_frontend"
+}
